@@ -1,7 +1,7 @@
 <idea-plugin>
-  <id>some.awesome</id>
-  <name>Nyan Progress Bar</name>
-  <version>1.14</version>
+  <id>yiijab.progressbar</id>
+  <name>Yiijab Progress Bar</name>
+  <version>1.0</version>
   <idea-version since-build="192"/>
   <vendor email="dmitry.batkovich@jetbrains.com">Dmitry Batkovich</vendor>
 
